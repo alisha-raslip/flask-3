@@ -1,0 +1,15 @@
+.alisha/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+
