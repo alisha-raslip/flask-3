@@ -1,5 +1,3 @@
-### **README.md**
-
 ```markdown
 # Flask CRUD API with SQLite
 
