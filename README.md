@@ -1,4 +1,4 @@
-```markdown
+
 # Flask CRUD API with SQLite
 
 ## Project Overview
